@@ -1,0 +1,12 @@
+/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit/bin/Debug/net5.0/TestingXUnit.deps.json
+/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit/bin/Debug/net5.0/TestingXUnit.dll
+/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit/bin/Debug/net5.0/ref/TestingXUnit.dll
+/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit/bin/Debug/net5.0/TestingXUnit.pdb
+/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit/obj/Debug/net5.0/TestingXUnit.csproj.AssemblyReference.cache
+/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit/obj/Debug/net5.0/TestingXUnit.GeneratedMSBuildEditorConfig.editorconfig
+/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit/obj/Debug/net5.0/TestingXUnit.AssemblyInfoInputs.cache
+/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit/obj/Debug/net5.0/TestingXUnit.AssemblyInfo.cs
+/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit/obj/Debug/net5.0/TestingXUnit.csproj.CoreCompileInputs.cache
+/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit/obj/Debug/net5.0/TestingXUnit.dll
+/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit/obj/Debug/net5.0/ref/TestingXUnit.dll
+/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit/obj/Debug/net5.0/TestingXUnit.pdb

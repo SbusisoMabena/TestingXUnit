@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit.Tests/TestingXUnit.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit.Tests/TestingXUnit.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit.Tests/TestingXUnit.Tests.csproj",
+        "projectName": "TestingXUnit.Tests",
+        "projectPath": "/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit.Tests/TestingXUnit.Tests.csproj",
+        "packagesPath": "/home/sbusiso/.nuget/packages/",
+        "outputPath": "/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sbusiso/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit/TestingXUnit.csproj": {
+                "projectPath": "/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit/TestingXUnit.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit/TestingXUnit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit/TestingXUnit.csproj",
+        "projectName": "TestingXUnit",
+        "projectPath": "/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit/TestingXUnit.csproj",
+        "packagesPath": "/home/sbusiso/.nuget/packages/",
+        "outputPath": "/home/sbusiso/Documents/codingProjects/c-sharp/TestingXUnit/TestingXUnit/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sbusiso/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

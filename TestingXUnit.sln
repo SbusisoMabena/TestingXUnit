@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingXUnit", "TestingXUnit\TestingXUnit.csproj", "{656E28EA-EF1F-4994-BC57-A520A6661E01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingXUnit.Tests", "TestingXUnit.Tests\TestingXUnit.Tests.csproj", "{034584AE-57A2-4BEC-9EC6-2CB148760B94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{656E28EA-EF1F-4994-BC57-A520A6661E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656E28EA-EF1F-4994-BC57-A520A6661E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656E28EA-EF1F-4994-BC57-A520A6661E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656E28EA-EF1F-4994-BC57-A520A6661E01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{034584AE-57A2-4BEC-9EC6-2CB148760B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034584AE-57A2-4BEC-9EC6-2CB148760B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034584AE-57A2-4BEC-9EC6-2CB148760B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034584AE-57A2-4BEC-9EC6-2CB148760B94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
